@@ -53,6 +53,7 @@ A Springer-published computer vision project for detecting real and synthetic hu
 A natural language processing project that predicts medical conditions from drug reviews using classical machine learning.
 
 - **Repository:** https://github.com/Pranav427/medical-condition-classification-drug-reviews-nlp
+- **Live Demo:** https://drug-review-nlp.streamlit.app
 
 ---
 
