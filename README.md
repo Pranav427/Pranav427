@@ -34,15 +34,13 @@ An AI-powered platform that helps job seekers discover opportunities, evaluate j
 
 **Focus:** AI Agents • Resume Intelligence • Job Matching • Automation
 
-**Repository:** Private (will be made public after a stable release)
+Repository: *Private (will be public after a stable release).*
 
 ---
 
 ### 👤 Face Anti-Spoof Detection
 
 A Springer-published computer vision project for detecting real and synthetic human faces.
-
-**Links**
 
 - **Repository:** https://github.com/Pranav427/A-Modern-Security-Advance-System-for-Detection-of-Real-and-Fake-Human-Faces
 - **Live Demo:** https://real-vs-fake-face.streamlit.app/
@@ -54,9 +52,7 @@ A Springer-published computer vision project for detecting real and synthetic hu
 
 A natural language processing project that predicts medical conditions from drug reviews using classical machine learning.
 
-**Repository**
-
-- https://github.com/Pranav427/medical-condition-classification-drug-reviews-nlp
+- **Repository:** https://github.com/Pranav427/medical-condition-classification-drug-reviews-nlp
 
 ---
 
@@ -66,9 +62,7 @@ A practical engineering handbook covering Python, statistics, machine learning, 
 
 Designed as a long-term technical reference rather than a chronological learning journal.
 
-**Repository**
-
-- https://github.com/Pranav427/ai-data-science-handbook
+- **Repository:** https://github.com/Pranav427/ai-data-science-handbook
 
 ---
 
@@ -80,16 +74,8 @@ Designed as a long-term technical reference rather than a chronological learning
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav427&show_icons=true&hide_border=true&rank_icon=github" alt="Pranav's GitHub Stats" />
-</p>
-
----
-
 ## Get in Touch
 
-- **Portfolio:** https://portfolio-self-one-10.vercel.app/
-- **LinkedIn:** https://linkedin.com/in/pranavobili04
-- **Email:** pranavsaiobili4@gmail.com
+- 🌐 Portfolio: https://portfolio-self-one-10.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/pranavobili04
+- 📧 Email: pranavsaiobili4@gmail.com
