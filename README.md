@@ -1,6 +1,6 @@
 # Pranav Obili
 
-I build practical AI applications, combining machine learning, software engineering, and research to design software that is simple, reliable, and useful.
+I build practical, data-driven software, combining software engineering, data science, machine learning, and AI applications to design simple, reliable, and useful systems.
 
 ---
 
@@ -16,13 +16,13 @@ I build practical AI applications, combining machine learning, software engineer
 
 ### PathPilot *(Private • In Development)*
 
-An AI-powered platform designed to help job seekers discover opportunities, evaluate job fit, and automate application prep.
+An intelligent, data-driven career platform designed to help job seekers discover opportunities, evaluate job fit, and automate application prep.
 
-- **Focus:** AI Agents • Resume Intelligence • Job Matching • Automation
+- **Focus:** Software Engineering • Data Science • Machine Learning • AI Applications
 
 ### Face Anti-Spoof Detection
 
-A computer vision system for detecting real and synthetic human faces, published in Springer.
+A computer vision system utilizing deep learning to detect real and synthetic human faces, published in Springer.
 
 - **Repository:** [A-Modern-Security-Advance-System-for-Detection-of-Real-and-Fake-Human-Faces](https://github.com/Pranav427/A-Modern-Security-Advance-System-for-Detection-of-Real-and-Fake-Human-Faces)
 - **Live Demo:** [Streamlit App](https://real-vs-fake-face.streamlit.app/)
@@ -30,14 +30,14 @@ A computer vision system for detecting real and synthetic human faces, published
 
 ### Medical Condition Classification
 
-A natural language processing system that predicts medical conditions from drug reviews using classical machine learning.
+A data science and natural language processing system that predicts medical conditions from drug reviews using machine learning.
 
 - **Repository:** [medical-condition-classification-drug-reviews-nlp](https://github.com/Pranav427/medical-condition-classification-drug-reviews-nlp)
 - **Live Demo:** [Streamlit App](https://drug-review-nlp.streamlit.app/)
 
 ### AI & Data Science Handbook
 
-A practical engineering reference covering Python, statistics, machine learning, deep learning, and software design.
+A practical engineering reference covering Python, statistics, data science, machine learning, deep learning, and software engineering foundations.
 
 - **Repository:** [ai-data-science-handbook](https://github.com/Pranav427/ai-data-science-handbook)
 
@@ -45,8 +45,8 @@ A practical engineering reference covering Python, statistics, machine learning,
 
 ## Current Focus
 
-- Developing agentic workflows and automated resume analysis pipelines for PathPilot.
-- Strengthening foundations in software architecture and ML system design.
+- Building intelligent, data-driven software products and refining PathPilot's matching engine.
+- Strengthening foundations in software architecture, data science, and machine learning systems.
 
 ---
 
